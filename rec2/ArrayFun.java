@@ -24,7 +24,7 @@ public class ArrayFun {
 
         // Syntax for accessing elements in an array (remember indexing starts at 0!)
         // name_of_array[index]
-        int oneNum = nums[5];
+        int onenum = nums[5];
 
         // Syntax for modifying elements in an array (remember indexing starts at 0!)
         // name_of_array[index] = new_value;
